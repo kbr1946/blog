@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+background: 'https://user-images.githubusercontent.com/81611877/163704623-c7e23c59-d0b6-46b8-9557-d7e6b7cdfad1.jpg'
 ---
 
 ## 자기소개
